@@ -1,3 +1,0 @@
-import pygame
-
-#通过pygame制造一个锁定窗口,前期是通过摇杆，串口，后面是tobii眼动仪
